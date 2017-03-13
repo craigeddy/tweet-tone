@@ -1,0 +1,32 @@
+{
+    "780881075891531776": {
+        "emotion": {}, 
+        "message": "When Donald Trump goes low...register to vote: https://t.co/tTgeqxNqYm https://t.co/DXz9dEwsZS", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T21:25:31"
+    }, 
+    "780893126605037568": {
+        "emotion": {}, 
+        "message": "Join me for a 3pm rally - tomorrow at the Mid-America Center in Council Bluffs, Iowa! Tickets:\u2026 https://t.co/dfzsbICiXc", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T22:13:24"
+    }, 
+    "780907038650068994": {
+        "emotion": {}, 
+        "message": "If we stand together, there's nothing we can't do.\n\nMake sure you're ready to vote: https://t.co/tTgeqxNqYm https://t.co/Q3Ymbb7UNy", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T23:08:41"
+    }, 
+    "780883582051123200": {
+        "emotion": {}, 
+        "message": "This election is too important to sit out. Go to https://t.co/tTgeqxNqYm and make sure you're registered. #NationalVoterRegistrationDay -H", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T21:35:28"
+    }, 
+    "780897419462602752": {
+        "emotion": {}, 
+        "message": "Both candidates were asked about how they'd confront racial injustice. Only one had a real answer. https://t.co/sjnEokckis", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T22:30:27"
+    }
+}

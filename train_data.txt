@@ -1,0 +1,602 @@
+{
+    "780853860135006211": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "90", 
+            "sadness": "0", 
+            "fear": "10", 
+            "disgust": "0"
+        }, 
+        "message": "In the last 24 hrs. we have raised over $13M from online donations and National Call Day, and we\u2019re still going! Thank you America! #MAGA", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T19:37:22"
+    }, 
+    "780828916919504896": {
+        "emotion": {
+            "anger": "50", 
+            "joy": "0", 
+            "sadness": "20", 
+            "fear": "20", 
+            "disgust": "10"
+        }, 
+        "message": "\"I don\u2019t think that any family should have to pay more than 10% of their income on child care.\u201d \u2014Hillary https://t.co/pepW0auI8n", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:58:15"
+    }, 
+    "780806581650878464": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "40", 
+            "sadness": "0", 
+            "fear": "10", 
+            "disgust": "0"
+        }, 
+        "message": "Register and vote for Democrats like @HillaryClinton and @KatieMcGintyPA: https://t.co/tu6W6eS9xR #iRegistered\u2026 https://t.co/9ovdecqadN", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:29:30"
+    }, 
+    "780881075891531776": {
+        "emotion": {
+            "anger": "50", 
+            "joy": "0", 
+            "sadness": "20", 
+            "fear": "0", 
+            "disgust": "30"
+        }, 
+        "message": "When Donald Trump goes low...register to vote: https://t.co/tTgeqxNqYm https://t.co/DXz9dEwsZS", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T21:25:31"
+    }, 
+    "780831901204484097": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "10", 
+            "fear": "20", 
+            "disgust": "0"
+        }, 
+        "message": "We don\u2019t want to turn against each other.\nWe want to work with one another.\nWe want to set big goals in this country.\n#StrongerTogether", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:10:07"
+    }, 
+    "780897419462602752": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "60", 
+            "sadness": "20", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Both candidates were asked about how they'd confront racial injustice. Only one had a real answer. https://t.co/sjnEokckis", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T22:30:27"
+    }, 
+    "780830087457406980": {
+        "emotion": {
+            "anger": "40", 
+            "joy": "10", 
+            "sadness": "30", 
+            "fear": "0", 
+            "disgust": "20"
+        }, 
+        "message": "\"What kind of a person would want to root for 9 million families losing their homes?\n\nOne who should never be president.\" \u2014Hillary on Trump", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:02:54"
+    }, 
+    "780824346310877184": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "\"You can go to https://t.co/tTgeqxNqYm to make sure you are registered. And I hope you all will.\u201d \u2014Hillary #NationalVoterRegistrationDay", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:40:05"
+    }, 
+    "780794828007305217": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "\"Register. Vote. Go out and get engaged!\u201d \u2014@JoeBiden #NationalVoterRegistrationDay https://t.co/tTgeqxNqYm", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T15:42:48"
+    }, 
+    "780907038650068994": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "20", 
+            "disgust": "0"
+        }, 
+        "message": "If we stand together, there's nothing we can't do. \n\nMake sure you're ready to vote: https://t.co/tTgeqxNqYm https://t.co/Q3Ymbb7UNy", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T23:08:41"
+    }, 
+    "780840847256453120": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "It's #NationalVoterRegistrationDay. Celebrate by registering to vote \u2192 https://t.co/tTgeqxNqYm https://t.co/R6lVvgLECG", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:45:39"
+    }, 
+    "780830984262516736": {
+        "emotion": {
+            "anger": "70", 
+            "joy": "0", 
+            "sadness": "02", 
+            "fear": "10", 
+            "disgust": "0"
+        }, 
+        "message": "\"What we hear from my opponent is dangerously incoherent. It's unclear what he's saying, but words matter.\" \u2014Hillary", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:06:28"
+    }, 
+    "780828206039502848": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "\"I\u2019m really glad my dad never had a contract with Donald Trump.\u201d \u2014Hillary https://t.co/un2YiRLEYF", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:55:26"
+    }, 
+    "780863218646474757": {
+        "emotion": {
+            "anger": "40", 
+            "joy": "20", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "40"
+        }, 
+        "message": "Hillary Clinton's Campaign Continues To Make False Claims About Foundation Disclosure: \nhttps://t.co/zhkEfUouHH", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T20:14:33"
+    }, 
+    "780869063648153601": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "The election is just weeks away. Check if you're registered to vote at https://t.co/HcMAh8ljR0, only takes a few cl\u2026 https://t.co/H1H7hAA4XM", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T20:37:47"
+    }, 
+    "780893126605037568": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Join me for a 3pm rally - tomorrow at the Mid-America Center in Council Bluffs, Iowa! Tickets:\u2026 https://t.co/dfzsbICiXc", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T22:13:24"
+    }, 
+    "780911564857761793": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Couldn't be more proud of @HillaryClinton. Her vision and command during last night's debate showed that she's ready to be our next @POTUS.", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T23:26:40"
+    }, 
+    "780799428269670400": {
+        "emotion": {
+            "anger": "30", 
+            "joy": "50", 
+            "sadness": "20", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "More than 70 million Americans aren't registered to vote. We have to do better! Get registered &amp; spread the word: https://t.co/IobF5PQ7jv", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:01:04"
+    }, 
+    "780796008854876160": {
+        "emotion": {
+            "anger": "10", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "10"
+        }, 
+        "message": "Such a great honor. Final debate polls are in - and the MOVEMENT wins!\n#AmericaFirst #MAGA #ImWithYou\u2026 https://t.co/DV1BKMwHEM", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T15:47:29"
+    }, 
+    "780874710049550336": {
+        "emotion": {
+            "anger": "60", 
+            "joy": "20", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "20"
+        }, 
+        "message": "3) Has Trump offered a single proposal to reduce the friction of starting a business. @HillaryClinton has https://t.co/OhFAFEFsUq", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T21:00:13"
+    }, 
+    "780823097498796034": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Join Hillary live in NC for her first rally since winning last night's debate \u2192 https://t.co/DzEpIDf7HY #NationalVoterRegistrationDay", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:35:08"
+    }, 
+    "780832403392790529": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "20", 
+            "disgust": "0"
+        }, 
+        "message": "\"I love this country.\nI\u2019m proud of this country.\nI want to be a leader who brings people together.\"\n\u2014Hillary #LoveTrumpsHate", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:12:06"
+    }, 
+    "780819344553107456": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "60", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "So. Everything you're feeling after #Debates2016? It's #NationalVoterRegistrationDay. PLEASE:\u2026 https://t.co/YnOtJL8bW7", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:20:13"
+    }, 
+    "780876760086880256": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "0", 
+            "fear": "20", 
+            "disgust": "10"
+        }, 
+        "message": "Once again, we will have a government of, by and for the people. Join the MOVEMENT today! https://t.co/lWjYDbPHav https://t.co/uYwJrtZkAe", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T21:08:22"
+    }, 
+    "780925634159796224": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "40", 
+            "sadness": "0", 
+            "fear": "60", 
+            "disgust": "0"
+        }, 
+        "message": "The question in this election: Who can put the plans into action that will make your life better? https://t.co/XreEY9OicG", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-28T00:22:34"
+    }, 
+    "780783037743267840": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "0", 
+            "sadness": "30", 
+            "fear": "50", 
+            "disgust": "0"
+        }, 
+        "message": "'U.S. Murders Increased 10.8% in 2015' via @WSJ: https://t.co/CIJMQJhLqp", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T14:55:57"
+    }, 
+    "780808548498468865": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "0", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Trump sobre Alicia Machado en 1996: \"Miss Piggy\"\n\nEsta ma\u00f1ana: \"Aument\u00f3 mucho de peso... era un problema serio\". https://t.co/Sv92DhXTPJ", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:37:19"
+    }, 
+    "780790673851224064": {
+        "emotion": {
+            "anger": "40", 
+            "joy": "60", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "\u201cLet me tell you who built this damn country: the middle class.\u201d \u2014@JoeBiden\n\nLet's keep building it, together: https://t.co/tTgeqxNqYm", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T15:26:17"
+    }, 
+    "780883582051123200": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "50", 
+            "disgust": "0"
+        }, 
+        "message": "This election is too important to sit out. Go to https://t.co/tTgeqxNqYm and make sure you're registered. #NationalVoterRegistrationDay -H", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T21:35:28"
+    }, 
+    "780781898071207940": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Thank you! #TrumpWon #MAGA \nhttps://t.co/a5rr1i38km", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T14:51:25"
+    }, 
+    "780825360611086336": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "90", 
+            "sadness": "0", 
+            "fear": "10", 
+            "disgust": "0"
+        }, 
+        "message": "\"We may have a record-setting turnout in this election.\n\nWe could have the biggest turnout we've ever had.\" https://t.co/tTgeqxNqYm", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:44:07"
+    }, 
+    "780805211472486401": {
+        "emotion": {
+            "anger": "10", 
+            "joy": "80", 
+            "sadness": "10", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "I've been fortunate to meet young Americans from all over the country. We all make choices. This is mine...\u2026 https://t.co/bYoUE91TOO", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:24:03"
+    }, 
+    "780813996739981316": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Thank you for your endorsement, @GovernorSununu. #MAGA \nhttps://t.co/8BEeQPsuyd", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T16:58:58"
+    }, 
+    "780827541670076416": {
+        "emotion": {
+            "anger": "40", 
+            "joy": "20", 
+            "sadness": "40", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "When you work hard, you should not be living in poverty. https://t.co/86sTOCAkkq", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:52:47"
+    }, 
+    "780867418012979204": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "On National #VoterRegistrationDay, make sure you're registered to vote so we can #MakeAmericaGreatAgain\u2026 https://t.co/0wib6UEZON", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T20:31:14"
+    }, 
+    "780852261442445312": {
+        "emotion": {
+            "anger": "40", 
+            "joy": "0", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "60"
+        }, 
+        "message": "\u201cShe gained about 55 pounds in...9 months. She was like an eating machine.\u201d \u2014Trump, a man who wants to be president: https://t.co/1ht91eZCyw", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T19:31:01"
+    }, 
+    "780797677009244160": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "When you have a really, really good night. #SheWon https://t.co/FVeGqhYxRZ", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T15:54:07"
+    }, 
+    "780859319319400448": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "20", 
+            "disgust": "0"
+        }, 
+        "message": "Great afternoon in Little Havana with Hispanic community leaders. Thank you for your support! #ImWithYou https://t.co/vxWZ2tyJTF", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T19:59:04"
+    }, 
+    "780830729760485378": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "0", 
+            "fear": "50", 
+            "disgust": "20"
+        }, 
+        "message": "One candidate made it clear he wasn\u2019t prepared for last night\u2019s debate. The other made it clear she\u2019s prepared to b\u2026 https://t.co/InYZBmnbBM", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T18:05:27"
+    }, 
+    "780861171238834176": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "60", 
+            "sadness": "0", 
+            "fear": "10", 
+            "disgust": "20"
+        }, 
+        "message": "'CNBC, Time magazine online polls say Donald Trump won the first presidential debate' via @WashTimes. #MAGA\nhttps://t.co/PGimqYKPoJ", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T20:06:25"
+    }, 
+    "780792352214573057": {
+        "emotion": {
+            "anger": "50", 
+            "joy": "20", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "30"
+        }, 
+        "message": "\"I'm glad Trump found out that Crimea was part of Ukraine. By the way, I heard he was on the verge of acknowledging gravity.\" \u2014@JoeBiden", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T15:32:57"
+    }, 
+    "780782299524792320": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "30", 
+            "sadness": "20", 
+            "fear": "50", 
+            "disgust": "0"
+        }, 
+        "message": "\"Anyone who complains about microphone problems is not having a good night.\" \u2014Hillary #SheWon", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T14:53:01"
+    }, 
+    "780802294002647040": {
+        "emotion": {
+            "anger": "10", 
+            "joy": "10", 
+            "sadness": "30", 
+            "fear": "0", 
+            "disgust": "50"
+        }, 
+        "message": "\"She gained a massive amount of weight...it was a real problem.\" \u2014Trump this morning on Alicia Machado https://t.co/LJPlFegSTs", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:12:28"
+    }, 
+    "780812840529723392": {
+        "emotion": {
+            "anger": "10", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "10", 
+            "disgust": "0"
+        }, 
+        "message": "Hillary was the winner of the first presidential debate\u2014and newspapers across America agree. #SheWon\u2026 https://t.co/oDiUHd0eXO", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:54:22"
+    }, 
+    "780826236213927937": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "90", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "Well, now they're saying that I not only won the NBC Presidential Forum, but last night the big debate. Nice!", 
+        "candidate": "realDonaldTrump", 
+        "time": "2016-09-27T17:47:36"
+    }, 
+    "780859420846727168": {
+        "emotion": {
+            "anger": "70", 
+            "joy": "0", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "30"
+        }, 
+        "message": "Donald Trump lied to the American people at least 58 times during the first presidential debate. (We counted.) https://t.co/h43O6Rws4S", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T19:59:28"
+    }, 
+    "780816109700124672": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "70", 
+            "sadness": "10", 
+            "fear": "20", 
+            "disgust": "0"
+        }, 
+        "message": "\u201cDonald just criticized me for preparing for this debate. And you know what else I prepared for?\n\nI prepared to be\u2026 https://t.co/QjB01msPaT", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T17:07:22"
+    }, 
+    "780787312460464129": {
+        "emotion": {
+            "anger": "20", 
+            "joy": "80", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "0"
+        }, 
+        "message": "One moment last night that proved\u2014again\u2014that Hillary's the only candidate ready to lead on the global stage: https://t.co/i4lrw7BpE9 #SheWon", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T15:12:56"
+    }, 
+    "780916180899037184": {
+        "emotion": {
+            "anger": "60", 
+            "joy": "0", 
+            "sadness": "0", 
+            "fear": "0", 
+            "disgust": "40"
+        }, 
+        "message": "Last night, Donald Trump said not paying taxes was \"smart.\" You know what I call it? Unpatriotic. https://t.co/t0xmBfj7zF", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T23:45:00"
+    }, 
+    "780800117867683841": {
+        "emotion": {
+            "anger": "0", 
+            "joy": "20", 
+            "sadness": "30", 
+            "fear": "0", 
+            "disgust": "50"
+        }, 
+        "message": "Today is #NationalVoterRegistrationDay - I was beaten, left bloody &amp; unconscious so that every person could register and vote. Do your part.", 
+        "candidate": "HillaryClinton", 
+        "time": "2016-09-27T16:03:49"
+    }
+}
